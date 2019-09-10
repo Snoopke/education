@@ -32,6 +32,7 @@ class TestWeb(unittest.TestCase):
         browser = webdriver.Chrome()
         browser.get(link)
 
+
         # Ваш код, который заполняет обязательные поля
         input1 = browser.find_element_by_css_selector(".first[required]")
         input1.send_keys("Ivan")

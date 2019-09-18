@@ -1,6 +1,6 @@
 # education
 
-Different quizes, courses, ect.  
+Different quizes, courses, etc.  
 Selenium web scripts
 =======
 

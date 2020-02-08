@@ -1,4 +1,4 @@
-# Hangman game - classical game in words, where you should guess a word before you die
+# Hangman game - classical game in words, where you should guess a word, before you die...
 import random
 import string
 

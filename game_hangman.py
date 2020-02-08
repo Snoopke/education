@@ -5,7 +5,7 @@ import string
 WORDLIST_FILENAME = "words.txt"
 
 
-def loadWords():
+def load_words():
     """
     Returns a list of valid words. Words are strings of lowercase letters.
     

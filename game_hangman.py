@@ -122,6 +122,12 @@ def hangman(secret_word):
                 if guesses_left == 0:
                     print('-----------')
                     print('Sorry, you ran out of guesses. The word was {}.'.format(secretWord))
+                    print(' #########')
+                    print('  |     ##')
+                    print('  O     ##')
+                    print(' /|\    ##')
+                    print(' / \    ##')
+                    print('________##')
                     break
                 else:
                     continue

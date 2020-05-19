@@ -26,3 +26,9 @@ def test_answer_after_input(browser, number):
     feedback = browser.find_element_by_css_selector('.smart-hints__hint')
     warning = feedback.text
     assert warning == "Correct!", feedback
+
+def test_branch_feature():
+    pass
+
+def test_second_brench():
+    pass
